@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dont tap it:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dont_tap_it_jar</output-path>
+    <root id="archive" name="Dont tap it.jar">
+      <element id="module-output" name="Dont tap it" />
+    </root>
+  </artifact>
+</component>

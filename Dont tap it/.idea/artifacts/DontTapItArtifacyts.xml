@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DontTapItArtifacyts">
+    <output-path>$PROJECT_DIR$/out/artifacts/DontTapItArtifacyts</output-path>
+    <root id="archive" name="DontTapItArtifacyts.jar" />
+  </artifact>
+</component>
